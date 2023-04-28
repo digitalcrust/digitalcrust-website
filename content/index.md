@@ -4,6 +4,9 @@ title: DigitalCrust
 
 # Goals
 
+A community place to coordinate work on software infrastructure for geological
+research.
+
 ## Open foundations for the digital ecosystem in crustal geology
 
 As geoscience research tasks get more complicated and rely on more digital data,
@@ -36,8 +39,17 @@ lucrative new pathways from a geoscience education.
   - Work outside of organizational and funding-driven [[silos]]
 - [[software-libraries]]: Promote and coordinate the development of shared code
   infrastructure
+
   - Teach broad skills, not specific languages
   - Provide ways to contribute for students/developers outside of science
+
+- Building effective software is a mode of scientific collaboration:
+  [[software-as-collaborative-science]].
+- Building effective software is also a mode of scientific communication:
+  [[software-as-communication]].
+
+- [[software-systems]]: Most of us think of software as _scripts_, but we need
+  to start thinking about _systems_.
 
 # Heritage
 
@@ -48,3 +60,10 @@ lucrative new pathways from a geoscience education.
 - Came out of the
   [Sparrow workshop](https://sparrow-data.org/media/2022/oct-workshop/index.html)
 - Name and initial idea were a USGS–Macrostrat collaboration in 2016
+
+We lean on a broad community infrastructure for open-science software, formed
+from many organizations [[aligned-organizations]].
+
+## How to get involved
+
+- [[Contribute to the website]]
