@@ -29,8 +29,8 @@ lucrative new pathways from a geoscience education.
 
 # Approach
 
-- [[coordination:Coordinate geologists]]: Connect geoscientists who are solving
-  problems by building software
+- [[coordination]]: Connect geoscientists who are solving problems by building
+  software
   - [[code-level collaboration]] melds the practices of software development
     with geoscience research
   - Work outside of organizational and funding-driven [[silos]]
