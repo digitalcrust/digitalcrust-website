@@ -1,12 +1,12 @@
-import React from 'react'
-import { Counter } from './Counter'
+import React from "react";
+import { Counter } from "./Counter";
 
-export { Page }
+export { Page };
 
 function Page() {
   return (
     <>
-      <h1>Welcome</h1>
+      <h1>DigitalCrust</h1>
       This page is:
       <ul>
         <li>Rendered to HTML.</li>
@@ -15,5 +15,5 @@ function Page() {
         </li>
       </ul>
     </>
-  )
+  );
 }
