@@ -29,6 +29,7 @@ const config: UserConfig = {
             pageResolver: (name: string) => [name],
             permalinks,
             hrefTemplate: (permalink: string) => `/${permalink}`,
+            aliasDivider: "|",
           },
         ],
       ],

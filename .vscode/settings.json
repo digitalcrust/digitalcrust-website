@@ -1,0 +1,4 @@
+{
+  "foam.completion.useAlias": "whenPathDiffersFromTitle",
+  "foam.files.newNotePath": "currentDir"
+}

@@ -1,13 +1,10 @@
 ---
-permalink: index
 authors: ["Daven Quinn"]
 ---
 
 import {Authors} from "../components/authors";
 
 <Authors authors={["Daven Quinn"]} />
-
-# Goals
 
 A community place to coordinate work on software infrastructure for geological
 research.
@@ -43,15 +40,15 @@ lucrative new pathways from a geoscience education.
 
 <div className="approach">
 
-# Approach
+## Approach
 
-- [[coordination]]: Connect geoscientists who are solving problems by building
-  software
+- [[Community coordination]]: Connect geoscientists who are solving problems by
+  building software
   - [[Code-level collaboration]] melds the practices of software development
     with geoscience research
   - Work outside of organizational and funding-driven [[silos]]
-- [[software-libraries]]: Promote and coordinate the development of shared code
-  infrastructure
+- [[Software libraries]]oftware libraries]]: Promote and coordinate the
+  development of shared code infrastructure
 
   - Teach broad skills, not specific languages
   - Provide ways to contribute for students/developers outside of science
@@ -61,12 +58,16 @@ lucrative new pathways from a geoscience education.
 - Building effective software is also a mode of scientific communication:
   [[software-as-communication]].
 
-- [[software-systems]]: Most of us think of software as _scripts_, but we need
-  to start thinking about _systems_.
+- [[Research software systems]]: Most of us think of software as _scripts_, but
+  we need to start thinking about _systems_.
+
+- [[silos]]: Development silos
 
 </div>
 
-# Heritage
+[[How to contribute]]
+
+## Heritage
 
 - Came out of EarthCube. Observation that, while EarthCube funded good projects,
   they were often siloed. Efforts to prevent this (e.g., compelling attendance
@@ -77,8 +78,8 @@ lucrative new pathways from a geoscience education.
 - Name and initial idea were a USGS–Macrostrat collaboration in 2016
 
 We lean on a broad community infrastructure for open-science software, formed
-from many organizations [[aligned-organizations]].
+from many organizations [[Aligned organizations]].
 
 ## How to get involved
 
-- [[contribute-to-the-website]]
+- [[Contribute to the website]]

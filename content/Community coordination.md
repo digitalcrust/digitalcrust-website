@@ -1,7 +1,3 @@
----
-title: Community coordination
----
-
 There are diverse stakeholders in the geology software ecosystem
 
 - Students seeking to gain technical skills

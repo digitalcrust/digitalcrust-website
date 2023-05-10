@@ -1,9 +1,3 @@
----
-title: Software systems for research
----
-
-# software-systems
-
 Geoscience examples:
 
 - Macrostrat
@@ -11,3 +5,6 @@ Geoscience examples:
 - MELTS
 
 Software and data systems encapsulate parts of the geoscience research process.
+
+- CSDMS "Basic model interface"
+- EarthChem
