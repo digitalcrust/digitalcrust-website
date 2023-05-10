@@ -17,3 +17,7 @@ a {
 .navitem.is-active {
   background-color: #eee;
 }
+
+.approach {
+  background-color: lightgreen;
+}

@@ -12,5 +12,5 @@ Silos keep us fixed in non-collaborative patterns of work.
 At the same time, silos serve a protective function: they are a mechanism to
 guard priorities against external pressure and scope creep. To resist silos,
 collaborative relationships must be focused on clear tasks.
-[[code-level collaboration]] is _lightweight_ and can easily adapt to changing
+[[Code-level collaboration]] is _lightweight_ and can easily adapt to changing
 needs.

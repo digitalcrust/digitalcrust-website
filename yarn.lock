@@ -240,6 +240,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@babel/runtime@npm:^7.7.7":
+  version: 7.21.5
+  resolution: "@babel/runtime@npm:7.21.5"
+  dependencies:
+    regenerator-runtime: ^0.13.11
+  checksum: 358f2779d3187f5c67ad302e8f8d435412925d0b991d133c7d4a7b1ddd5a3fda1b6f34537cb64628dfd96a27ae46df105bed3895b8d754b88cacdded8d1129dd
+  languageName: node
+  linkType: hard
+
 "@babel/template@npm:^7.20.7":
   version: 7.20.7
   resolution: "@babel/template@npm:7.20.7"
@@ -291,6 +300,13 @@ __metadata:
   version: 0.5.3
   resolution: "@brillout/json-serializer@npm:0.5.3"
   checksum: fecd31a517736dcbeefbc471f2a278d32b5e71a47f9f4f2675cc41374bcf43c282399d28950fe815d886efb7860d5d97a10ead8e416cd1cf2aeb74f336cd3ce2
+  languageName: node
+  linkType: hard
+
+"@brillout/picocolors@npm:^1.0.4":
+  version: 1.0.4
+  resolution: "@brillout/picocolors@npm:1.0.4"
+  checksum: 7962357c019010561db3f934ac01cea06419f1a8223695371c82a6a1b0829e610db799389644b3ced98d4e355c0a4cdbf9a7b192ca3f956ffc26247ddf1d5e3d
   languageName: node
   linkType: hard
 
@@ -536,6 +552,31 @@ __metadata:
     "@jridgewell/resolve-uri": 3.1.0
     "@jridgewell/sourcemap-codec": 1.4.14
   checksum: 0572669f855260808c16fe8f78f5f1b4356463b11d3f2c7c0b5580c8ba1cbf4ae53efe9f627595830856e57dbac2325ac17eb0c3dd0ec42102e6f227cc289c02
+  languageName: node
+  linkType: hard
+
+"@loadable/component@npm:^5.15.3":
+  version: 5.15.3
+  resolution: "@loadable/component@npm:5.15.3"
+  dependencies:
+    "@babel/runtime": ^7.7.7
+    hoist-non-react-statics: ^3.3.1
+    react-is: ^16.12.0
+  peerDependencies:
+    react: ^16.3.0 || ^17.0.0 || ^18.0.0
+  checksum: 78ac341465f2310db30381bc75e8bf73a33f99af849a6a2d87eb3842da0ba1df265e08045dc4f3fee1d194522a43a030baa91740045b64aad002f159ccce64bf
+  languageName: node
+  linkType: hard
+
+"@macrostrat/hyper@npm:^2.2.1":
+  version: 2.2.1
+  resolution: "@macrostrat/hyper@npm:2.2.1"
+  dependencies:
+    classnames: ^2.3.1
+  peerDependencies:
+    "@types/react": ">= 16.0.0 < 19.0.0"
+    react: ">= 0.12.0 < 19.0.0"
+  checksum: 30c1fba5e5343f4dd643713c72dc2a843a43cfe8ab8962c30ae81d659800378f680c0ef9f612ce686e71f16ac973faa5af1a3fbcf68480105768cbe84651431b
   languageName: node
   linkType: hard
 
@@ -1267,6 +1308,13 @@ __metadata:
   version: 2.0.0
   resolution: "chownr@npm:2.0.0"
   checksum: c57cf9dd0791e2f18a5ee9c1a299ae6e801ff58fee96dc8bfd0dcb4738a6ce58dd252a3605b1c93c6418fe4f9d5093b28ffbf4d66648cb2a9c67eaef9679be2f
+  languageName: node
+  linkType: hard
+
+"classnames@npm:^2.3.1":
+  version: 2.3.2
+  resolution: "classnames@npm:2.3.2"
+  checksum: 2c62199789618d95545c872787137262e741f9db13328e216b093eea91c85ef2bfb152c1f9e63027204e2559a006a92eb74147d46c800a9f96297ae1d9f96f4e
   languageName: node
   linkType: hard
 
@@ -2061,6 +2109,15 @@ __metadata:
   version: 2.0.1
   resolution: "hast-util-whitespace@npm:2.0.1"
   checksum: 431be6b2f35472f951615540d7a53f69f39461e5e080c0190268bdeb2be9ab9b1dddfd1f467dd26c1de7e7952df67beb1307b6ee940baf78b24a71b5e0663868
+  languageName: node
+  linkType: hard
+
+"hoist-non-react-statics@npm:^3.3.1":
+  version: 3.3.2
+  resolution: "hoist-non-react-statics@npm:3.3.2"
+  dependencies:
+    react-is: ^16.7.0
+  checksum: b1538270429b13901ee586aa44f4cc3ecd8831c061d06cb8322e50ea17b3f5ce4d0e2e66394761e6c8e152cd8c34fb3b4b690116c6ce2bd45b18c746516cb9e8
   languageName: node
   linkType: hard
 
@@ -3501,6 +3558,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"react-is@npm:^16.12.0, react-is@npm:^16.7.0":
+  version: 16.13.1
+  resolution: "react-is@npm:16.13.1"
+  checksum: f7a19ac3496de32ca9ae12aa030f00f14a3d45374f1ceca0af707c831b2a6098ef0d6bdae51bd437b0a306d7f01d4677fcc8de7c0d331eb47ad0f46130e53c5f
+  languageName: node
+  linkType: hard
+
 "react-refresh@npm:^0.14.0":
   version: 0.14.0
   resolution: "react-refresh@npm:0.14.0"
@@ -3629,6 +3693,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
+    "@loadable/component": ^5.15.3
+    "@macrostrat/hyper": ^2.2.1
     "@mdx-js/rollup": ^2.3.0
     "@types/compression": ^1.7.2
     "@types/express": ^4.17.14
@@ -3647,7 +3713,7 @@ __metadata:
     ts-node: ^10.9.1
     typescript: ^4.9.4
     vite: ^4.0.3
-    vite-plugin-ssr: ^0.4.118
+    vite-plugin-ssr: ^0.4.123
   languageName: unknown
   linkType: soft
 
@@ -4268,19 +4334,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite-plugin-ssr@npm:^0.4.118":
-  version: 0.4.118
-  resolution: "vite-plugin-ssr@npm:0.4.118"
+"vite-plugin-ssr@npm:^0.4.123":
+  version: 0.4.123
+  resolution: "vite-plugin-ssr@npm:0.4.123"
   dependencies:
     "@brillout/import": 0.2.3
     "@brillout/json-serializer": ^0.5.3
+    "@brillout/picocolors": ^1.0.4
     "@brillout/vite-plugin-import-build": ^0.2.16
     acorn: ^8.0.0
     cac: ^6.0.0
     es-module-lexer: ^0.10.0
     esbuild: ^0.17.0
     fast-glob: ^3.0.0
-    picocolors: ^1.0.0
     sirv: ^2.0.0
   peerDependencies:
     react-streaming: ">=0.3.5"
@@ -4290,7 +4356,7 @@ __metadata:
       optional: true
   bin:
     vite-plugin-ssr: node/cli/bin-entry.js
-  checksum: 6c92c1654f325ae19f09940fd22469c6cee719545696e77080b07c5af265e761b86197d59621a784856e5f9dccddc8d80eba41d783f5589b42ca9a738ded1494
+  checksum: 48b9b6577ae99e9a85f2546496870c375286027064184415afd15da3909e762014936dc26e91518bcbd530802c17d84adcb5eb474bc63af7beab399581888407
   languageName: node
   linkType: hard
 

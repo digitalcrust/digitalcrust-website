@@ -1,11 +1,22 @@
 ---
-title: DigitalCrust
+permalink: index
+authors: ["Daven Quinn"]
 ---
+
+import {Authors} from "../components/authors";
+
+<Authors authors={["Daven Quinn"]} />
 
 # Goals
 
 A community place to coordinate work on software infrastructure for geological
 research.
+
+- [[training]]: Teach skills for building software infrastructure to
+  geoscientists.
+- [[tech-transfer]]: Build links with the broader software community.
+
+A way of thinking about geological research.
 
 ## Open foundations for the digital ecosystem in crustal geology
 
@@ -30,11 +41,13 @@ by contributing to shared libraries. Additionally, software expertise can
 provide a pathway from geoscience into the broader technology field, creating
 lucrative new pathways from a geoscience education.
 
+<div className="approach">
+
 # Approach
 
 - [[coordination]]: Connect geoscientists who are solving problems by building
   software
-  - [[code-level collaboration]] melds the practices of software development
+  - [[Code-level collaboration]] melds the practices of software development
     with geoscience research
   - Work outside of organizational and funding-driven [[silos]]
 - [[software-libraries]]: Promote and coordinate the development of shared code
@@ -51,6 +64,8 @@ lucrative new pathways from a geoscience education.
 - [[software-systems]]: Most of us think of software as _scripts_, but we need
   to start thinking about _systems_.
 
+</div>
+
 # Heritage
 
 - Came out of EarthCube. Observation that, while EarthCube funded good projects,
@@ -66,4 +81,4 @@ from many organizations [[aligned-organizations]].
 
 ## How to get involved
 
-- [[Contribute to the website]]
+- [[contribute-to-the-website]]
