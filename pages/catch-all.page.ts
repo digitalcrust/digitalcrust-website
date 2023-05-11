@@ -14,7 +14,7 @@ function Page() {
   }
   pathName += ".md";
 
-  const PageContent = loadable(() => import("../content" + pathName));
+  const PageContent = loadable(() => import("../text/content" + pathName));
   return h(ErrorBoundary, h(PageContent, { fallback: h("div", "Loading...") }));
 }
 

@@ -1,5 +1,3 @@
-# Contribute to the website
-
 The DigitalCrust website is a repository that contains both code for rendering
 the web page and the page content.
 

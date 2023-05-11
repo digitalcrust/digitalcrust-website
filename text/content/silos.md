@@ -1,9 +1,3 @@
----
-title: Development silos
----
-
-# silos
-
 Silos arise when organizations don't have links or freedom to collaborate. This
 can be due to funding or organizational priorities. A common refrain at
 conferences is that "we should talk more," but in practice, it can be difficult.

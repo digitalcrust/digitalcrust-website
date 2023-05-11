@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Code-level collaboration.md",
-                "mode": "source",
+                "file": "content/DigitalCrust.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Code-level collaboration.md",
+                "file": "content/DigitalCrust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Code-level collaboration.md",
+                "file": "content/DigitalCrust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Code-level collaboration.md"
+                "file": "content/DigitalCrust.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "1c817b968788f9ef",
   "lastOpenFiles": [
+    "content/contribute/Contribute to the website.md",
+    "content/People.md",
+    "content/tech-transfer.md",
+    "content/contribute/DigitalCrust.md",
+    "content/DigitalCrust.md",
+    "content/Silos.md",
+    "content/Code-level collaboration.md",
     "content/Aligned organizations.md",
     "text/content/motivation/software/Software libraries.md",
     "text/content/motivation/software/Research software systems.md",
@@ -171,14 +178,7 @@
     "text/site/Events.md",
     "text/site/DigitalCrust.md",
     "text/site/Community coordination.md",
-    "text/site/code-level collaboration.md",
-    "text/site/Aligned organizations.md",
-    "text/motivation/software/Software libraries.md",
-    "text/motivation/software/Research software systems.md",
     "text/motivation/software",
-    "text/contribute/How to contribute.md",
-    "text/contribute/Contribute to the website.md",
-    "text/tech-transfer.md",
     "text/site",
     "text/notes",
     "text/motivation",
