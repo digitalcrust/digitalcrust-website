@@ -24,7 +24,7 @@ const config: UserConfig = {
           },
         ],
       ],
-      include: ["content/**/*.md"],
+      include: ["text/content/**/*.md"],
       mdxExtensions: [".mdx", ".md"],
       mdExtensions: [],
     }),

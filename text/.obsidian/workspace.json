@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/DigitalCrust.md",
-                "mode": "preview",
+                "file": "content/contribute/How to contribute.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/DigitalCrust.md",
+                "file": "content/contribute/How to contribute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/DigitalCrust.md",
+                "file": "content/contribute/How to contribute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/DigitalCrust.md"
+                "file": "content/contribute/How to contribute.md"
               }
             }
           }
@@ -148,14 +148,24 @@
   },
   "active": "1c817b968788f9ef",
   "lastOpenFiles": [
-    "content/contribute/Contribute to the website.md",
+    "content/DigitalCrust.md",
+    "content/Principles.md",
+    "content/Code-level collaboration.md",
+    "content/Community coordination.md",
+    "content/Aligned organizations.md",
+    "content/Digital twin of the crust.md",
+    "content/Events.md",
     "content/People.md",
+    "content/motivation/software/Research software systems 1.md",
+    "content/motivation/software/Research software systems.md",
+    "content/motivation/software/Software libraries.md",
+    "content/motivation/software/Software libraries.md",
+    "content/motivation/software/The structure of software - applications, modules, and platforms.md",
+    "content/motivation/Development silos.md",
+    "content/contribute/Contribute to the website.md",
     "content/tech-transfer.md",
     "content/contribute/DigitalCrust.md",
-    "content/DigitalCrust.md",
     "content/Silos.md",
-    "content/Code-level collaboration.md",
-    "content/Aligned organizations.md",
     "text/content/motivation/software/Software libraries.md",
     "text/content/motivation/software/Research software systems.md",
     "text/content/motivation/software",
@@ -167,17 +177,7 @@
     "text/content/silos.md",
     "text/content/people.md",
     "text/content/code-level collaboration.md",
-    "text/content/Events.md",
-    "text/content/DigitalCrust.md",
-    "text/content/Community coordination.md",
-    "text/content/Aligned organizations.md",
     "text/content",
-    "text/site/tech-transfer.md",
-    "text/site/silos.md",
-    "text/site/people.md",
-    "text/site/Events.md",
-    "text/site/DigitalCrust.md",
-    "text/site/Community coordination.md",
     "text/motivation/software",
     "text/site",
     "text/notes",

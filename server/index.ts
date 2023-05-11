@@ -11,8 +11,6 @@ const isProduction = process.env.NODE_ENV === "production";
 startServer();
 
 async function startServer() {
-  const [pageIndex, permalinkIndex] = buildPageIndex();
-
   const app = express();
 
   app.use(compression());
@@ -31,12 +29,15 @@ async function startServer() {
     app.use(viteDevMiddleware);
   }
 
+  app.get("/page-map.json", async (req, res) => {
+    const [pageIndex, permalinkIndex] = buildPageIndex();
+    res.json(permalinkIndex);
+  });
+
   app.get("*", async (req, res, next) => {
     const pageContextInit = {
       urlOriginal: req.originalUrl,
-      url: "/text/content/DigitalCrust.md",
     };
-    console.log(pageContextInit);
     const pageContext = await renderPage(pageContextInit);
     const { httpResponse } = pageContext;
     if (!httpResponse) return next();

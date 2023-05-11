@@ -10,7 +10,10 @@ export function buildPageIndex() {
   let permalinkIndex: { [k: string]: string } = {};
 
   for (const path of files) {
-    const sluggedPath = slugifyPath(path).replace("text/content", "");
+    let sluggedPath = slugifyPath(path).replace("text/content", "");
+    if (sluggedPath == "") {
+      sluggedPath = "/";
+    }
 
     const newPath = path.replace(/^text\/content\//, "");
     const lastPart = newPath.split("/").pop();
@@ -51,5 +54,9 @@ export function slugifyPath(path: string) {
   }
 
   // Join the path tokens back together
-  return "/" + tokens.join("/");
+  let urlPath = tokens.join("/");
+  if (urlPath == "") {
+    urlPath = "/";
+  }
+  return urlPath;
 }

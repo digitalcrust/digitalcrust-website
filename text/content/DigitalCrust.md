@@ -3,14 +3,30 @@ authors: ["Daven Quinn"]
 permalink: index
 ---
 
-A community place to coordinate work on software infrastructure for geological
+A community to coordinate work on software infrastructure for geological
 research.
+
+- [[Principles]]
+- [[DigitalCrust Goals|Goals]]
+- [[DigitalCrust Activities|Activities]]
+- [[Events]]
 
 - [[training]]: Teach skills for building software infrastructure to
   geoscientists.
 - [[tech-transfer]]: Build links with the broader software community.
 
-A way of thinking about geological research.
+## Approach
+
+- [[Community coordination]]: Connect geoscientists who are solving problems by
+  building software
+- [[Code-level collaboration]] melds the practices of software development
+    with geoscience research
+  - Work outside of organizational and funding-driven [[Development silos]]
+- [[Software libraries]]: Promote and coordinate the
+  development of shared code infrastructure
+
+  - Teach broad skills, not specific languages
+  - Provide ways to contribute for students/developers outside of science
 
 ## Open foundations for the digital ecosystem in crustal geology
 
@@ -35,8 +51,6 @@ by contributing to shared libraries. Additionally, software expertise can
 provide a pathway from geoscience into the broader technology field, creating
 lucrative new pathways from a geoscience education.
 
-<div className="approach">
-
 ## Approach
 
 - [[Community coordination]]: Connect geoscientists who are solving problems by
@@ -59,8 +73,6 @@ lucrative new pathways from a geoscience education.
   we need to start thinking about _systems_.
 
 - [[silos]]: Development silos
-
-</div>
 
 [[How to contribute]]
 

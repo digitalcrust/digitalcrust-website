@@ -1,21 +1,16 @@
 import h from "@macrostrat/hyper";
-import loadable from "@loadable/component";
 import { usePageContext } from "../renderer/usePageContext";
 import { Component } from "react";
+import loadable from "@loadable/component";
+
+const modules = import.meta.glob("../text/content/**/*.md");
 
 function Page() {
   const ctx = usePageContext();
-
-  console.log(ctx.urlPathname);
-
-  let pathName = ctx.urlPathname;
-  if (pathName.endsWith("/")) {
-    pathName = pathName + "index";
-  }
-  pathName += ".md";
-
-  const PageContent = loadable(() => import("../text/content" + pathName));
-  return h(ErrorBoundary, h(PageContent, { fallback: h("div", "Loading...") }));
+  const fn = "../text/content/" + ctx.contentFile;
+  console.log(fn);
+  const PageContent = loadable(() => modules[fn]());
+  return h(ErrorBoundary, h(PageContent));
 }
 
 // `Page` is the only page of our app.
