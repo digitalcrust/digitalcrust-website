@@ -1,7 +1,3 @@
----
-title: Aligned organizations
----
-
 - [Software Underground](https://softwareunderground.org/)
 - [Earth Science Information Partners](https://www.esipfed.org/)
 - [EarthCube](https://www.earthcube.org/)
@@ -17,7 +13,6 @@ title: Aligned organizations
 
 - [CSDMS](https://csdms.colorado.edu/wiki/Main_Page)
 - [Paleoverse](https://paleoverse.org/)
-
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
 
 # Education

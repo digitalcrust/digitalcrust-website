@@ -11,8 +11,12 @@
             "id": "1c817b968788f9ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Code-level collaboration.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Code-level collaboration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Code-level collaboration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Code-level collaboration.md"
+              }
             }
           }
         ]
@@ -138,37 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91bf3043747049d2",
+  "active": "1c817b968788f9ef",
   "lastOpenFiles": [
-    "tech-transfer.md",
-    "silos.md",
-    "people.md",
-    "motivation/software/Software libraries.md",
-    "motivation/software/Research software systems.md",
-    "motivation/software",
-    "motivation",
-    "contribute/How to contribute.md",
-    "contribute/Contribute to the website.md",
-    "contribute",
-    "code-level collaboration.md",
-    "Events.md",
-    "DigitalCrust.md",
-    "Community coordination.md",
-    "Aligned organizations.md",
-    "People.md",
-    "aligned-organizations.md",
-    "contribute/Contribute.md",
-    "Software libraries.md",
-    "Research software systems.md",
-    "contribute/Get Involved.md",
-    "get-involved/Get Involved.md",
-    "get-involved/Get involved.md",
-    "Contribute to the website.md",
-    "Software systems for research.md",
-    "software-libraries.md",
-    "software-librares.md",
-    "get-involved/index.md",
-    "get-involved",
-    "index.md"
+    "content/Aligned organizations.md",
+    "text/content/motivation/software/Software libraries.md",
+    "text/content/motivation/software/Research software systems.md",
+    "text/content/motivation/software",
+    "text/content/motivation",
+    "text/content/contribute/How to contribute.md",
+    "text/content/contribute/Contribute to the website.md",
+    "text/content/contribute",
+    "text/content/tech-transfer.md",
+    "text/content/silos.md",
+    "text/content/people.md",
+    "text/content/code-level collaboration.md",
+    "text/content/Events.md",
+    "text/content/DigitalCrust.md",
+    "text/content/Community coordination.md",
+    "text/content/Aligned organizations.md",
+    "text/content",
+    "text/site/tech-transfer.md",
+    "text/site/silos.md",
+    "text/site/people.md",
+    "text/site/Events.md",
+    "text/site/DigitalCrust.md",
+    "text/site/Community coordination.md",
+    "text/site/code-level collaboration.md",
+    "text/site/Aligned organizations.md",
+    "text/motivation/software/Software libraries.md",
+    "text/motivation/software/Research software systems.md",
+    "text/motivation/software",
+    "text/contribute/How to contribute.md",
+    "text/contribute/Contribute to the website.md",
+    "text/tech-transfer.md",
+    "text/site",
+    "text/notes",
+    "text/motivation",
+    "text/media",
+    "text/contribute"
   ]
 }

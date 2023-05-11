@@ -1,10 +1,7 @@
 ---
 authors: ["Daven Quinn"]
+permalink: index
 ---
-
-import {Authors} from "../components/authors";
-
-<Authors authors={["Daven Quinn"]} />
 
 A community place to coordinate work on software infrastructure for geological
 research.
