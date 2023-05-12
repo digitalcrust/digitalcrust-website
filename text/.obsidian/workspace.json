@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/contribute/How to contribute.md",
+                "file": "content/Digital twin of the crust.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8149c21c72a91de1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Digital twin of the crust.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f23196e8ddeff57b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Principles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/contribute/How to contribute.md",
+                "file": "content/Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/contribute/How to contribute.md",
+                "file": "content/Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/contribute/How to contribute.md"
+                "file": "content/Principles.md"
               }
             }
           }
@@ -146,25 +171,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c817b968788f9ef",
+  "active": "f23196e8ddeff57b",
   "lastOpenFiles": [
     "content/DigitalCrust.md",
-    "content/Principles.md",
-    "content/Code-level collaboration.md",
+    "content/Digital twin.md",
+    "content/Digital twin of the crust.md",
+    "content/motivation/software/Research software systems.md",
     "content/Community coordination.md",
     "content/Aligned organizations.md",
-    "content/Digital twin of the crust.md",
+    "content/Code-level collaboration.md",
+    "content/Principles.md",
+    "content/contribute/DigitalCrust.md",
+    "content/contribute/How to contribute.md",
     "content/Events.md",
     "content/People.md",
     "content/motivation/software/Research software systems 1.md",
-    "content/motivation/software/Research software systems.md",
     "content/motivation/software/Software libraries.md",
     "content/motivation/software/Software libraries.md",
     "content/motivation/software/The structure of software - applications, modules, and platforms.md",
     "content/motivation/Development silos.md",
     "content/contribute/Contribute to the website.md",
     "content/tech-transfer.md",
-    "content/contribute/DigitalCrust.md",
     "content/Silos.md",
     "text/content/motivation/software/Software libraries.md",
     "text/content/motivation/software/Research software systems.md",
@@ -175,8 +202,6 @@
     "text/content/contribute",
     "text/content/tech-transfer.md",
     "text/content/silos.md",
-    "text/content/people.md",
-    "text/content/code-level collaboration.md",
     "text/content",
     "text/motivation/software",
     "text/site",

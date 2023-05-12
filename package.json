@@ -24,6 +24,7 @@
     "gray-matter": "^4.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "remark-frontmatter": "^4.0.1",
     "remark-wiki-link": "^1.0.4",
     "sirv": "^2.0.2",
     "ts-node": "^10.9.1",

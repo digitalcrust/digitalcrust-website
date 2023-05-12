@@ -7,20 +7,28 @@ export function buildPageIndex() {
   // Walk the tree and generate permalinks for each page
   const files = globSync("./text/content/**/*.md");
   let pageIndex: { [k: string]: string[] } = {};
-  let permalinkIndex: { [k: string]: string } = {};
+  let permalinkIndex: { [k: string]: { permalink: string; title: string } } =
+    {};
 
   for (const path of files) {
-    let sluggedPath = slugifyPath(path).replace("text/content", "");
+    // Get yaml frontmatter from file
+    const content = readFileSync(path, "utf8");
+    const { data = {} } = matter(content);
+
+    let sluggedPath = slugifyPath(path, data).replace("text/content", "");
     if (sluggedPath == "") {
       sluggedPath = "/";
     }
 
     const newPath = path.replace(/^text\/content\//, "");
     const lastPart = newPath.split("/").pop();
-    permalinkIndex[sluggedPath] = newPath;
 
     if (lastPart == null) continue;
     const name = lastPart.split(".")[0];
+
+    const title = data.title ?? name;
+    permalinkIndex[sluggedPath] = { permalink: newPath, title };
+
     const pathWithoutExt = newPath.split(".")[0];
 
     pageIndex[pathWithoutExt] = [sluggedPath];
@@ -31,7 +39,7 @@ export function buildPageIndex() {
   return [pageIndex, permalinkIndex];
 }
 
-export function slugifyPath(path: string) {
+export function slugifyPath(path: string, frontmatter: any) {
   // Generate a tokenized slug from a markdown file path using GitHub's style,
   // overridden by the permalink if provided in metadata
 
@@ -40,10 +48,7 @@ export function slugifyPath(path: string) {
   const fileBase = fileName?.split(".")[0] || "";
   const defaultSlug = slugify(fileBase);
 
-  // Get yaml frontmatter from file
-  const content = readFileSync(path, "utf8");
-  const { data = {} } = matter(content);
-  const { permalink, slug } = data;
+  const { permalink, slug } = frontmatter;
 
   const fileSlug = permalink ?? slug ?? defaultSlug;
 

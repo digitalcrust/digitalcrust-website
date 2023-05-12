@@ -2,5 +2,8 @@
   "vimMode": true,
   "userIgnoreFilters": [
     "node_modules/"
-  ]
+  ],
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true
 }

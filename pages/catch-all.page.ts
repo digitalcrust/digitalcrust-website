@@ -7,10 +7,13 @@ const modules = import.meta.glob("../text/content/**/*.md");
 
 function Page() {
   const ctx = usePageContext();
+  if (ctx.contentFile == null) {
+    return null;
+  }
+
   const fn = "../text/content/" + ctx.contentFile;
-  console.log(fn);
   const PageContent = loadable(() => modules[fn]());
-  return h(ErrorBoundary, h(PageContent));
+  return h(ErrorBoundary, [h("div", [h("h1", ctx.title), h(PageContent)])]);
 }
 
 // `Page` is the only page of our app.

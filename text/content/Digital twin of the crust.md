@@ -1,4 +1,4 @@
-[[Digital twin]]
+![[Digital twin]]
 
 # How does this work?
 

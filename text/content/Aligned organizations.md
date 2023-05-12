@@ -1,13 +1,10 @@
+Creating an open and extensible software ecosystem for geoscience is a makor endeavour, and there are many organizations involved in pushing it forward. Many of these efforts are target the same overall problem as this organization, but are focused on different facets of the overall problem.
+
 - [Software Underground](https://softwareunderground.org/)
 - [Earth Science Information Partners](https://www.esipfed.org/)
 - [EarthCube](https://www.earthcube.org/)
 - [rOpenSci](https://ropensci.org/)
 - [PyOpenSci](https://www.pyopensci.org/)
-
-# Software peer review
-
-- [PyOpenSci](https://github.com/pyOpenSci/software-submission)
-- [rOpenSci](https://ropensci.org/)
 
 # Geoscience software
 

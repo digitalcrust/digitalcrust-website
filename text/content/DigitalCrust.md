@@ -11,10 +11,6 @@ research.
 - [[DigitalCrust Activities|Activities]]
 - [[Events]]
 
-- [[training]]: Teach skills for building software infrastructure to
-  geoscientists.
-- [[tech-transfer]]: Build links with the broader software community.
-
 ## Approach
 
 - [[Community coordination]]: Connect geoscientists who are solving problems by
@@ -58,7 +54,7 @@ lucrative new pathways from a geoscience education.
   - [[Code-level collaboration]] melds the practices of software development
     with geoscience research
   - Work outside of organizational and funding-driven [[silos]]
-- [[Software libraries]]oftware libraries]]: Promote and coordinate the
+- [[Software libraries]]: Promote and coordinate the
   development of shared code infrastructure
 
   - Teach broad skills, not specific languages
@@ -76,6 +72,27 @@ lucrative new pathways from a geoscience education.
 
 [[How to contribute]]
 
+## Approach
+
+- [[Community coordination]]: Connect geoscientists who are solving problems by
+  building software
+- [[Code-level collaboration]] melds the practices of software development
+    with geoscience research
+  - Work outside of organizational and funding-driven [[Development silos]]
+- [[Software libraries]]: Promote and coordinate the
+  development of shared code infrastructure
+
+
+
+## Goals
+
+- Build [[Digital twin of the crust]]
+
+- [[Foster communication]]
+- [[Break down development silos]]
+- [[Build software literacy among geoscientists]]
+
+
 ## Heritage
 
 - Came out of EarthCube. Observation that, while EarthCube funded good projects,
@@ -92,3 +109,9 @@ from many organizations [[Aligned organizations]].
 ## How to get involved
 
 - [[Contribute to the website]]
+
+## Misc
+
+- [[training]]: Teach skills for building software infrastructure to
+  geoscientists.
+- [[tech-transfer]]: Build links with the broader software community.

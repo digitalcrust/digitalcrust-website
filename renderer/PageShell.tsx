@@ -19,14 +19,16 @@ function PageShell({
       <PageContextProvider pageContext={pageContext}>
         <Layout>
           <Sidebar>
-            <h1>DigitalCrust</h1>
             <Logo />
-            <Link className="navitem" href="/">
-              Home
-            </Link>
-            <Link className="navitem" href="/about">
-              About
-            </Link>
+            <nav>
+              <h1>DigitalCrust</h1>
+              <Link className="navitem" href="/">
+                Home
+              </Link>
+              <Link className="navitem" href="/about">
+                About
+              </Link>
+            </nav>
           </Sidebar>
           <Content>{children}</Content>
         </Layout>
