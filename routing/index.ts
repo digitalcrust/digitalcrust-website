@@ -3,12 +3,15 @@ import { readFileSync } from "fs";
 import slugify from "@sindresorhus/slugify";
 import { globSync } from "glob";
 
-export function buildPageIndex() {
+type PageIndex = { [k: string]: string[] };
+type PermalinkIndex = { [k: string]: { permalink: string; title: string } };
+
+export function buildPageIndex(): [PageIndex, PermalinkIndex] {
   // Walk the tree and generate permalinks for each page
+  // Always happens on the server side.
   const files = globSync("./text/content/**/*.md");
-  let pageIndex: { [k: string]: string[] } = {};
-  let permalinkIndex: { [k: string]: { permalink: string; title: string } } =
-    {};
+  let pageIndex: PageIndex = {};
+  let permalinkIndex: PermalinkIndex = {};
 
   for (const path of files) {
     // Get yaml frontmatter from file
