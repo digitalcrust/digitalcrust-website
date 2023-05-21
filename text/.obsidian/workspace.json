@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c817b968788f9ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Digital twin of the crust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8149c21c72a91de1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Digital twin of the crust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f23196e8ddeff57b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Principles.md",
+                "file": "content/Community coordination.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09af5d36c47185fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/GSA short course info.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Principles.md",
+                "file": "notes/GSA short course info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Principles.md",
+                "file": "notes/GSA short course info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Principles.md"
+                "file": "notes/GSA short course info.md"
               }
             }
           }
@@ -171,23 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f23196e8ddeff57b",
+  "active": "09af5d36c47185fa",
   "lastOpenFiles": [
+    "content/Community coordination.md",
+    "notes/GSA short course info.md",
+    "content/Aligned organizations.md",
+    "content/Code-level collaboration.md",
+    "notes/Reading.md",
+    "content/motivation/software/Software libraries.md",
     "content/DigitalCrust.md",
+    "content/Principles.md",
     "content/Digital twin.md",
     "content/Digital twin of the crust.md",
     "content/motivation/software/Research software systems.md",
-    "content/Community coordination.md",
-    "content/Aligned organizations.md",
-    "content/Code-level collaboration.md",
-    "content/Principles.md",
     "content/contribute/DigitalCrust.md",
     "content/contribute/How to contribute.md",
     "content/Events.md",
     "content/People.md",
     "content/motivation/software/Research software systems 1.md",
-    "content/motivation/software/Software libraries.md",
-    "content/motivation/software/Software libraries.md",
     "content/motivation/software/The structure of software - applications, modules, and platforms.md",
     "content/motivation/Development silos.md",
     "content/contribute/Contribute to the website.md",
@@ -201,7 +190,6 @@
     "text/content/contribute/Contribute to the website.md",
     "text/content/contribute",
     "text/content/tech-transfer.md",
-    "text/content/silos.md",
     "text/content",
     "text/motivation/software",
     "text/site",

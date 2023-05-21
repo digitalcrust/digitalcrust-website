@@ -1,7 +1,6 @@
 import h from "@macrostrat/hyper";
 import { usePageContext } from "../renderer/usePageContext";
 import { Component } from "react";
-import loadable from "@loadable/component";
 import { Link } from "../renderer/Link";
 
 const modules = import.meta.glob("../text/content/**/*.md");
@@ -24,7 +23,7 @@ function Page() {
     dangerouslySetInnerHTML: { __html: _contentStr },
   });
 
-  return h(ErrorBoundary, [h("div", [h("h1", ctx.title), pageContent])]);
+  return h(ErrorBoundary, [pageContent]);
 }
 
 // `Page` is the only page of our app.

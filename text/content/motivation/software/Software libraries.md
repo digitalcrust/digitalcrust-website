@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 There is a lot of duplication of effort by different organizations. It makes
 sense to have many organizations focused on different aspects of scientific
 problems, but often they are building software with many internal commonalities.

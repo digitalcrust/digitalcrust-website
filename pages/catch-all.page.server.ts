@@ -7,8 +7,7 @@ const modules = import.meta.glob("../text/content/**/*.md");
 const [pageIndex, permalinkIndex] = buildPageIndex();
 
 type OurPageContext = {
-  mdxContentFile: string;
-  title: string;
+  mdxContent: string | null;
 };
 
 export async function onBeforeRender(
@@ -16,16 +15,24 @@ export async function onBeforeRender(
 ): Promise<{ pageContext: OurPageContext }> {
   const ctx = permalinkIndex[pageContext.urlPathname];
   const mdxContentFile = ctx?.permalink;
-  const _mdxContent = await modules["../text/content/" + mdxContentFile]();
-  console.log(_mdxContent.default);
-  const mdxContent = await renderToString(h(_mdxContent.default));
+  const pageFile = modules["../text/content/" + mdxContentFile];
+  if (pageFile == null) {
+    return {
+      pageContext: {
+        mdxContent: null,
+      },
+    };
+  }
+  const _mdxContent = pageFile == null ? null : await pageFile();
+
+  const pageContent = h("div", [h("h1", ctx.title), h(_mdxContent.default)]);
+
+  const mdxContent = await renderToString(pageContent);
 
   const title = ctx?.title;
   return {
     pageContext: {
-      mdxContentFile,
       mdxContent,
-      title,
     },
   };
 }
