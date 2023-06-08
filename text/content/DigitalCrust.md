@@ -1,8 +1,19 @@
 ---
-title: DigitalCrust
+permalink: index
 ---
 
-# Goals
+<div className={"aside"}>
+  Our first event will be a short course at the 2023 GSA Annual Meeting.
+  [[events/2023/GSA short course|Learn more]]!
+</div>
+
+A community to coordinate work on software infrastructure for geological
+research.
+
+- [[Principles]]
+- [[DigitalCrust Goals|Goals]]
+- [[Approach]]
+- [[Events]]
 
 ## Open foundations for the digital ecosystem in crustal geology
 
@@ -27,15 +38,37 @@ by contributing to shared libraries. Additionally, software expertise can
 provide a pathway from geoscience into the broader technology field, creating
 lucrative new pathways from a geoscience education.
 
-# Approach
+## Approach
 
-- [[coordination]]: Connect geoscientists who are solving problems by building
-  software
-  - Focus on _code-level_ collaboration, melding the practices of software
-    development with geoscience research
-  - Work outside of organizational and funding-driven silos (e.g., universities,
-    labs, single funded projects)
-- [[software-libraries]]: Promote and coordinate the development of shared code
-  infrastructure
-  - Teach broad skills, not specific languages
-  - Provide ways to contribute for students/developers outside of science
+[[How to contribute]]
+
+## Goals
+
+- Build [[Digital twin of the crust]]
+
+- [[Foster communication]]
+- [[Break down development silos]]
+- [[Build software literacy among geoscientists]]
+
+## Heritage
+
+- Came out of EarthCube. Observation that, while EarthCube funded good projects,
+  they were often siloed. Efforts to prevent this (e.g., compelling attendance
+  to EarthCube-specific conferences, and funding workshops) often were less
+  effective than desired.
+- Came out of the
+  [Sparrow workshop](https://sparrow-data.org/media/2022/oct-workshop/index.html)
+- Name and initial idea were a USGS–Macrostrat collaboration in 2016
+
+We lean on a broad community infrastructure for open-science software, formed
+from many organizations [[Aligned organizations]].
+
+## How to get involved
+
+- [[Contribute to the website]]
+
+## Misc
+
+- [[training]]: Teach skills for building software infrastructure to
+  geoscientists.
+- [[tech-transfer]]: Build links with the broader software community.
