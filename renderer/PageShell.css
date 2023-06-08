@@ -21,3 +21,9 @@ a {
 .approach {
   background-color: lightgreen;
 }
+
+.aside {
+  padding: 1em;
+  background: #eee;
+  border-radius: 3px;
+}

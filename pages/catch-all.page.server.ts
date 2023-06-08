@@ -13,6 +13,7 @@ type OurPageContext = {
 export async function onBeforeRender(
   pageContext: PageContext
 ): Promise<{ pageContext: OurPageContext }> {
+  console.log(permalinkIndex, pageIndex, pageContext.urlPathname);
   const ctx = permalinkIndex[pageContext.urlPathname];
   const mdxContentFile = ctx?.permalink;
   const pageFile = modules["../text/content/" + mdxContentFile];

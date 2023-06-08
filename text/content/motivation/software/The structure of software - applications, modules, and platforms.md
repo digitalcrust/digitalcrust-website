@@ -11,10 +11,12 @@
 
 ## Modules
 
+Modules are the building blocks of applications.
+
 - Small/lightweight
 - Smaller audience
 
-Good modules are just as valuable as applications
+Modules can be just as valuable as applications
 
 - Many modules from _outside_ of geology
 	- Many of these have seen significant contributions from geoscience

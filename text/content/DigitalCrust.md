@@ -1,28 +1,19 @@
 ---
-authors: ["Daven Quinn"]
 permalink: index
 ---
+
+<div className={"aside"}>
+  Our first event will be a short course at the 2023 GSA Annual Meeting.
+  [[events/2023/GSA short course|Learn more]]!
+</div>
 
 A community to coordinate work on software infrastructure for geological
 research.
 
 - [[Principles]]
 - [[DigitalCrust Goals|Goals]]
-- [[DigitalCrust Activities|Activities]]
+- [[Approach]]
 - [[Events]]
-
-## Approach
-
-- [[Community coordination]]: Connect geoscientists who are solving problems by
-  building software
-- [[Code-level collaboration]] melds the practices of software development
-    with geoscience research
-  - Work outside of organizational and funding-driven [[Development silos]]
-- [[Software libraries]]: Promote and coordinate the
-  development of shared code infrastructure
-
-  - Teach broad skills, not specific languages
-  - Provide ways to contribute for students/developers outside of science
 
 ## Open foundations for the digital ecosystem in crustal geology
 
@@ -49,40 +40,7 @@ lucrative new pathways from a geoscience education.
 
 ## Approach
 
-- [[Community coordination]]: Connect geoscientists who are solving problems by
-  building software
-  - [[Code-level collaboration]] melds the practices of software development
-    with geoscience research
-  - Work outside of organizational and funding-driven [[silos]]
-- [[Software libraries]]: Promote and coordinate the
-  development of shared code infrastructure
-
-  - Teach broad skills, not specific languages
-  - Provide ways to contribute for students/developers outside of science
-
-- Building effective software is a mode of scientific collaboration:
-  [[software-as-collaborative-science]].
-- Building effective software is also a mode of scientific communication:
-  [[software-as-communication]].
-
-- [[Research software systems]]: Most of us think of software as _scripts_, but
-  we need to start thinking about _systems_.
-
-- [[silos]]: Development silos
-
 [[How to contribute]]
-
-## Approach
-
-- [[Community coordination]]: Connect geoscientists who are solving problems by
-  building software
-- [[Code-level collaboration]] melds the practices of software development
-    with geoscience research
-  - Work outside of organizational and funding-driven [[Development silos]]
-- [[Software libraries]]: Promote and coordinate the
-  development of shared code infrastructure
-
-
 
 ## Goals
 
@@ -91,7 +49,6 @@ lucrative new pathways from a geoscience education.
 - [[Foster communication]]
 - [[Break down development silos]]
 - [[Build software literacy among geoscientists]]
-
 
 ## Heritage
 
