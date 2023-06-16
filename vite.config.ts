@@ -10,8 +10,6 @@ import { buildPageIndex } from "./routing";
 const [pageIndex, permalinkIndex] = buildPageIndex();
 const permalinks = Object.keys(permalinkIndex);
 
-console.log(pageIndex, permalinkIndex);
-
 const config: UserConfig = {
   plugins: [
     react(),

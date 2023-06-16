@@ -2,73 +2,62 @@
 permalink: index
 ---
 
-<div className={"aside"}>
+<div className="aside">
   Our first event will be a short course at the 2023 GSA Annual Meeting.
   [[events/2023/GSA short course|Learn more]]!
 </div>
 
-A community to coordinate work on software infrastructure for geological
-research.
+**DigitalCrust** is a community organization to coordinate work on software
+infrastructure for geological research. It has several
+[[DigitalCrust Goals|core goals]]:
 
-- [[Principles]]
-- [[DigitalCrust Goals|Goals]]
-- [[Approach]]
-- [[Events]]
+- Establish practices of [[code-level collaboration]] among geoscientists,
+  encouraging
+  - [[Lightweight connections]] among organizations and subfields
+  - Focus on modular, reusable [[Software libraries|software libraries]]
+- Build [[Software literacy]] among geoscientists to enable these collaborative
+  ties
+- Work towards a [[Digital twin of the crust]] that integrates geological
+  information across space and time
 
-## Open foundations for the digital ecosystem in crustal geology
+<div className="block">
+## [[People]]
 
-As geoscience research tasks get more complicated and rely on more digital data,
-they must be supported by an ecosystem of high-quality, purpose-built software
-tools to gather, fuse, analyze, and retain data. We need processes and
-mechanisms to reduce duplicative work, focus effort in mutually beneficial
-directions, and coalesce around standards and best practices. This requires
-planning and coordination between organizations to solve shared problems.
+DigitalCrust was created by geologists and informatics professionals who seek to
+collaborate more closely across organizational bounds
 
-## Software literacy and skills for research geologists
+</div>
 
-High-quality software systems for geology rely on a community of researchers
-with the skills to build, maintain, and evaluate them. Many of the skills and
-practices for this work, such as version control, shared libraries, and test-
-and schema- driven development, have existed in the broader software field for
-decades. These tools are underutilized in geoscience, often even by those who
-create research software. By teaching skills in these areas, we can build better
-collaborative practices (i.e., an ecosystem). Since the infrastructure of this
-field is underdeveloped, there are ample opportunities for “learning on the job”
-by contributing to shared libraries. Additionally, software expertise can
-provide a pathway from geoscience into the broader technology field, creating
-lucrative new pathways from a geoscience education.
+<div className="block">
+## [[Motivation]]
 
-## Approach
+Current collaborative and funding practices result in [[development silos]],
+competing platforms, and duplication of effort between organizations.
+DigitalCrust seeks to advocate for implementing lightweight collaborative
+practices borrowed from the open-source software community
 
-[[How to contribute]]
+</div>
 
-## Goals
+<div className="block">
+## [[Activities]]
+DigitalCrust strives to be a [[Lightweight organization]], and currently seeks
+to build coordination through virtual meetings and events for training and
+outreach
+</div>
 
-- Build [[Digital twin of the crust]]
+<div className="block">
+## [[Aligned efforts]]
 
-- [[Foster communication]]
-- [[Break down development silos]]
-- [[Build software literacy among geoscientists]]
+There are many organizations working to build a capable and useful geoscience
+software ecosystem. We seek to integrate with and direct effort to these
+organizations.
 
-## Heritage
+</div>
 
-- Came out of EarthCube. Observation that, while EarthCube funded good projects,
-  they were often siloed. Efforts to prevent this (e.g., compelling attendance
-  to EarthCube-specific conferences, and funding workshops) often were less
-  effective than desired.
-- Came out of the
-  [Sparrow workshop](https://sparrow-data.org/media/2022/oct-workshop/index.html)
-- Name and initial idea were a USGS–Macrostrat collaboration in 2016
+<div className="block">
+## [[How to get involved]]
 
-We lean on a broad community infrastructure for open-science software, formed
-from many organizations [[Aligned organizations]].
+There are many ways to get involved for geologists of all levels, starting from
+simply attending our biweekly standing meeting.
 
-## How to get involved
-
-- [[Contribute to the website]]
-
-## Misc
-
-- [[training]]: Teach skills for building software infrastructure to
-  geoscientists.
-- [[tech-transfer]]: Build links with the broader software community.
+</div>
