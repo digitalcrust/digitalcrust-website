@@ -11,6 +11,8 @@ WORKDIR /usr/src/app/site
 
 RUN yarn install --immutable
 
+COPY site /usr/src/app/site
+
 # Copy content to the site directory
 COPY content /usr/src/app/content
 
