@@ -25,9 +25,6 @@ function PageShell({
               <Link className="navitem" href="/">
                 Home
               </Link>
-              <Link className="navitem" href="/about">
-                About
-              </Link>
             </nav>
           </Sidebar>
           <Content>{children}</Content>

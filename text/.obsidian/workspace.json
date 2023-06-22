@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/events/Events.md",
+                "file": "content/Code-level collaboration.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59089b524a7ca48a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/contribute/How to contribute.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/contribute/How to contribute.md",
+                "file": "content/Code-level collaboration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/contribute/How to contribute.md",
+                "file": "content/Code-level collaboration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/contribute/How to contribute.md"
+                "file": "content/Code-level collaboration.md"
               }
             }
           }
@@ -159,43 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59089b524a7ca48a",
+  "active": "f23196e8ddeff57b",
   "lastOpenFiles": [
-    "content/Approach.md",
-    "content/events/2023/GSA short course.md",
-    "content/events/Events.md",
+    "content/motivation/Motivation.md",
+    "content/Stakeholders.md",
+    "content/Activities.md",
     "content/DigitalCrust.md",
+    "content/software/Connecting fields.md",
+    "content/software/Types of software.md",
+    "content/software/The structure of software - applications, modules, and platforms.md",
+    "content/software/Software libraries.md",
+    "content/software/Connecting Fields.md",
+    "content/software",
+    "content/motivation/software/Connecting Fields.md",
+    "content/People.md",
+    "content/events/Events.md",
+    "content/Approach.md",
+    "content/contribute/How to contribute.md",
+    "content/events/2023/GSA short course.md",
     "content/Principles.md",
     "content/contribute/Contribute to the website.md",
     "content/Aligned organizations.md",
     "content/Digital twin of the crust.md",
     "content/Digital twin.md",
-    "content/contribute/How to contribute.md",
-    "content/People.md",
     "content/Community coordination.md",
     "content/Code-level collaboration.md",
     "content/motivation/Development silos.md",
     "content/Silos.md",
     "content/tech-transfer.md",
     "content/motivation/software/Research software systems.md",
-    "content/motivation/software/Software libraries.md",
-    "content/motivation/software/The structure of software - applications, modules, and platforms.md",
-    "notes/GSA short course info.md",
-    "notes/Reading.md",
-    "content/contribute/DigitalCrust.md",
-    "content/motivation/software/Research software systems 1.md",
-    "text/content/motivation/software/Software libraries.md",
-    "text/content/motivation/software/Research software systems.md",
     "text/content/motivation/software",
     "text/content/motivation",
-    "text/content/contribute/How to contribute.md",
     "text/content/contribute",
     "text/content",
     "text/motivation/software",
     "text/site",
     "text/notes",
     "text/motivation",
-    "text/media",
-    "text/contribute"
+    "text/media"
   ]
 }

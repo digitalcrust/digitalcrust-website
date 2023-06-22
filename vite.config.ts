@@ -4,6 +4,7 @@ import mdx from "@mdx-js/rollup";
 import wikiLinks from "remark-wiki-link";
 import frontmatter from "remark-frontmatter";
 import { UserConfig } from "vite";
+import slugify from "@sindresorhus/slugify";
 
 import { buildPageIndex } from "./routing";
 
@@ -18,10 +19,15 @@ const config: UserConfig = {
         [
           wikiLinks,
           {
-            pageResolver: (name: string) => pageIndex[name] || [],
+            pageResolver: (name: string) =>
+              pageIndex[name] || [
+                slugify(name, { separator: "-", lowercase: true }),
+              ],
             permalinks,
             hrefTemplate: (permalink: string) => `${permalink}`,
             aliasDivider: "|",
+            wikiLinkClassName: "internal-link",
+            newClassName: "not-created-yet",
           },
         ],
         [frontmatter, { type: "yaml", marker: "-" }],

@@ -49,7 +49,7 @@ export function slugifyPath(path: string, frontmatter: any) {
   const pathTokens = path.split("/");
   const fileName = pathTokens.pop();
   const fileBase = fileName?.split(".")[0] || "";
-  const defaultSlug = slugify(fileBase);
+  const defaultSlug = slugify(fileBase, { lowercase: true });
 
   const { permalink, slug } = frontmatter;
 

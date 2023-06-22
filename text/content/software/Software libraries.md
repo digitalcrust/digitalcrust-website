@@ -1,7 +1,3 @@
----
-draft: true
----
-
 There is a lot of duplication of effort by different organizations. It makes
 sense to have many organizations focused on different aspects of scientific
 problems, but often they are building software with many internal commonalities.
@@ -24,5 +20,3 @@ students. Specific domains will be prioritized for shared work:
 - Web-based plots (e.g., d3) that ingest data aligned with these schemas
 
 ## Focused
-
-

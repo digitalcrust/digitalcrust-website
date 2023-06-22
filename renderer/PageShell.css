@@ -9,6 +9,15 @@ body {
 }
 a {
   text-decoration: none;
+  color: dodgerblue;
+}
+
+a:visited {
+  color: rgb(41, 127, 212)
+}
+
+a.internal-link.not-created-yet {
+  color: rgb(183, 90, 148);
 }
 
 .navitem {
