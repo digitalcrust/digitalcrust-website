@@ -4,7 +4,7 @@ import slugify from "@sindresorhus/slugify";
 import { globSync } from "glob";
 
 type PageIndex = { [k: string]: string[] };
-type PermalinkIndex = { [k: string]: { permalink: string; title: string } };
+type PermalinkIndex = { [k: string]: { contentFile: string; title: string } };
 
 export function buildPageIndex(): [PageIndex, PermalinkIndex] {
   // Walk the tree and generate permalinks for each page
@@ -35,7 +35,7 @@ export function buildPageIndex(): [PageIndex, PermalinkIndex] {
     const name = lastPart.split(".")[0];
 
     const title = data.title ?? name;
-    permalinkIndex[sluggedPath] = { permalink: newPath, title };
+    permalinkIndex[sluggedPath] = { contentFile: newPath, title };
 
     const pathWithoutExt = newPath.split(".")[0];
 

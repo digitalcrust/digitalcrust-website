@@ -14,7 +14,7 @@ export async function onBeforeRender(
   pageContext: PageContext
 ): Promise<{ pageContext: OurPageContext }> {
   const ctx = permalinkIndex[pageContext.urlPathname];
-  const mdxContentFile = ctx?.permalink;
+  const mdxContentFile = ctx?.contentFile;
   const pageFile = modules["../text/content/" + mdxContentFile];
   if (pageFile == null) {
     return {
