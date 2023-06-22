@@ -7,7 +7,7 @@ permalink: index
   [[events/2023/GSA short course|Learn more]]!
 </div>
 
-**DigitalCrust** is a community organization to coordinate work on software
+**DigitalCrust** is a community organization that coordinates work on software
 infrastructure for geological research. It has several
 [[DigitalCrust Goals|core goals]]:
 
@@ -31,31 +31,27 @@ collaborate more closely across organizational bounds
 <div className="block">
 ## [[Motivation]]
 
-Current collaborative and funding practices result in [[development silos]],
-competing platforms, and duplication of effort between organizations.
-DigitalCrust seeks to advocate for implementing lightweight collaborative
-practices borrowed from the open-source software community
+Current collaborative and funding practices for geoinformatics research result
+in [[development silos]], competing platforms, and duplication of effort between
+organizations. DigitalCrust advocates for lightweight collaborative practices
+borrowed from the open-source software community to improve community
+connectivity.
 
 </div>
 
 <div className="block">
 ## [[Activities]]
-DigitalCrust strives to be a [[Lightweight organization]], and currently seeks
-to build coordination through virtual meetings and events for training and
-outreach
-</div>
 
-<div className="block">
-## [[Aligned efforts]]
-
-There are many organizations working to build a capable and useful geoscience
-software ecosystem. We seek to integrate with and direct effort to these
-organizations.
+DigitalCrust seeks to build coordination through low-overhead virtual meetings
+and training and outreach events. It seeks to direct effort to many other
+[[Aligned organizations]] that already support the geoscience software
+ecosystem. As a loose collaborative enterprise, it remains open to new
+initiatives in the future.
 
 </div>
 
 <div className="block">
-## [[How to get involved]]
+## [[Get involved]]
 
 There are many ways to get involved for geologists of all levels, starting from
 simply attending our biweekly standing meeting.

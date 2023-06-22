@@ -27,3 +27,16 @@ a {
   background: #eee;
   border-radius: 3px;
 }
+
+.block {
+  display: flex;
+  flex-direction: row;
+  background-color: #eee;
+  border-radius: 0.5em;
+  margin-bottom: 1em;
+  padding: 0 1em;
+}
+
+.block h2 {
+  min-width: 8em;
+}
