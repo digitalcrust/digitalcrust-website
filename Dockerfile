@@ -4,13 +4,15 @@ FROM node:18
 WORKDIR /usr/src/app
 
 # Install app dependencies
-COPY package.json yarn.lock .yarnrc.yml ./
-COPY .yarn ./.yarn
+COPY site/package.json site/yarn.lock site/.yarnrc.yml /usr/src/app/site/
+COPY site/.yarn /usr/src/app/site/.yarn
+
+WORKDIR /usr/src/app/site
 
 RUN yarn install --immutable
 
-# Bundle app source
-COPY . .
+# Copy content to the site directory
+COPY content /usr/src/app/content
 
 # Build app
 RUN yarn build

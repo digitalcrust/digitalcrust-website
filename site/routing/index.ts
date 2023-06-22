@@ -4,12 +4,12 @@ import slugify from "@sindresorhus/slugify";
 import { globSync } from "glob";
 
 type PageIndex = { [k: string]: string[] };
-type PermalinkIndex = { [k: string]: { permalink: string; title: string } };
+type PermalinkIndex = { [k: string]: { contentFile: string; title: string } };
 
 export function buildPageIndex(): [PageIndex, PermalinkIndex] {
   // Walk the tree and generate permalinks for each page
   // Always happens on the server side.
-  const files = globSync("./text/content/**/*.md");
+  const files = globSync("../content/**/*.md");
   let pageIndex: PageIndex = {};
   let permalinkIndex: PermalinkIndex = {};
 
@@ -18,19 +18,24 @@ export function buildPageIndex(): [PageIndex, PermalinkIndex] {
     const content = readFileSync(path, "utf8");
     const { data = {} } = matter(content);
 
-    let sluggedPath = slugifyPath(path, data).replace("text/content", "");
+    let sluggedPath = slugifyPath(path.replace(/^\.\.\/content/, ""), data);
     if (sluggedPath == "") {
       sluggedPath = "/";
     }
 
-    const newPath = path.replace(/^text\/content\//, "");
+    const newPath = path.replace(/^\.\.\/content\//, "");
+
+    if (newPath.startsWith("__drafts__")) {
+      // Skip drafts for page index
+      continue;
+    }
     const lastPart = newPath.split("/").pop();
 
     if (lastPart == null) continue;
     const name = lastPart.split(".")[0];
 
     const title = data.title ?? name;
-    permalinkIndex[sluggedPath] = { permalink: newPath, title };
+    permalinkIndex[sluggedPath] = { contentFile: newPath, title };
 
     const pathWithoutExt = newPath.split(".")[0];
 

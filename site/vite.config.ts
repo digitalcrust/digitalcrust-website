@@ -32,7 +32,7 @@ const config: UserConfig = {
         ],
         [frontmatter, { type: "yaml", marker: "-" }],
       ],
-      include: ["text/content/**/*.md"],
+      include: ["../content/**/*.md"],
       mdxExtensions: [".mdx", ".md"],
       mdExtensions: [],
     }),
