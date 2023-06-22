@@ -3,6 +3,8 @@
 body {
   margin: 0;
   font-family: sans-serif;
+  background-color: white;
+  line-height: 1.5;
 }
 * {
   box-sizing: border-box;
@@ -34,10 +36,13 @@ a.internal-link.not-created-yet {
   background-color: lightgreen;
 }
 
+.aside, .block {
+  padding: 0.2em 1em;
+  border-radius: 0.5em;
+}
+
 .aside {
-  padding: 1em;
-  background: #eee;
-  border-radius: 3px;
+  background-color: #e8d9ea;
 }
 
 .block {
@@ -46,7 +51,6 @@ a.internal-link.not-created-yet {
   background-color: #eee;
   border-radius: 0.5em;
   margin-bottom: 1em;
-  padding: 0 1em;
 }
 
 .block h2 {
