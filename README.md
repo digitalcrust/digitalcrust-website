@@ -5,6 +5,6 @@ The **DigitalCrust Website** describes the motivation and structure of the **Dig
 - Site is currently in a non-working state but will eventually appear at
   https://digitalcrust.org.
 
-- Content is in the [`text/content`](text/content) directory.
-- The site is built using Vite, atop a content archive managed in
+- Content is in the [`content`](content) directory.
+- The website code (in the [`site`](site) directory) is built using Vite, atop a content archive managed in
   [Obsidian](https://obsidian.md/).
