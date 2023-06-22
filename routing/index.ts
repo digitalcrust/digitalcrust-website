@@ -24,6 +24,11 @@ export function buildPageIndex(): [PageIndex, PermalinkIndex] {
     }
 
     const newPath = path.replace(/^text\/content\//, "");
+
+    if (newPath.startsWith("__drafts__")) {
+      // Skip drafts for page index
+      continue;
+    }
     const lastPart = newPath.split("/").pop();
 
     if (lastPart == null) continue;
