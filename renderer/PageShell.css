@@ -21,8 +21,11 @@ a.internal-link.not-created-yet {
 }
 
 .navitem {
+  /* TODO - we should use an actual list element to do navigation items */
+  display: block;
   padding: 3px 10px;
 }
+
 .navitem.is-active {
   background-color: #eee;
 }

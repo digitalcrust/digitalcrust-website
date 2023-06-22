@@ -23,7 +23,13 @@ function PageShell({
             <nav>
               <h1>DigitalCrust</h1>
               <Link className="navitem" href="/">
-                Home
+                Homepage
+              </Link>
+              <Link
+                className="navitem"
+                href="https://github.com/digitalcrust/digitalcrust-website"
+              >
+                GitHub repository
               </Link>
             </nav>
           </Sidebar>
