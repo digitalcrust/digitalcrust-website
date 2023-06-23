@@ -18,7 +18,10 @@ maintenance of small, reusable software libraries.
   - _Broadly focused_: Teach broad skills and approaches, not specific languages
   - _Learn by doing_: Provide ways to contribute that allow students to get onboard and start helping
 
+## Philosophy
 
+- Standards over platforms
+- "Community of practice"
 
 ## Comparisons
 
