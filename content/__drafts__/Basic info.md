@@ -38,18 +38,6 @@ lucrative new pathways from a geoscience education.
 - [[Break down development silos]]
 - [[Build software literacy among geoscientists]]
 
-## Heritage
-
-- Came out of EarthCube. Observation that, while EarthCube funded good projects,
-  they were often siloed. Efforts to prevent this (e.g., compelling attendance
-  to EarthCube-specific conferences, and funding workshops) often were less
-  effective than desired.
-- Came out of the
-  [Sparrow workshop](https://sparrow-data.org/media/2022/oct-workshop/index.html)
-- Name and initial idea were a USGS–Macrostrat collaboration in 2016
-
-We lean on a broad community infrastructure for open-science software, formed
-from many organizations [[Aligned organizations]].
 
 ## How to get involved
 
@@ -61,10 +49,7 @@ from many organizations [[Aligned organizations]].
   geoscientists.
 - [[tech-transfer]]: Build links with the broader software community.
 
-There is a long history of organizations that seek to coordinate digital
-infrastructure in geology. Unlike previous efforts in the space, we seek to
-foster lightweight collaboration, encouraging informal communication and shared
-maintenance of small, reusable software libraries.
+
 
 It seeks to build a lightweight "community of practice" that draws together
 existing infrastructure, encouraging lightweight collaboration and shared
