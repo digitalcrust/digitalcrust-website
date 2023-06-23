@@ -17,7 +17,7 @@ infrastructure for geological research. It has several
 - Work towards a [[Digital twin of the crust]] that integrates geological
   information across space and time
 - Establish practices of [[Code-level collaboration]] among geoscientists,
-  encouraging [[Connecting fields|new ways to connect]] among organizations and subfields and modular, reusable [[Software libraries|software libraries]].
+  encouraging [[Software-driven collaboration|new ways to connect]] among organizations and subfields and modular, reusable [[Software libraries|software libraries]].
 - Build [[Software literacy]] among geoscientists to enable these collaborative
   ties
 

@@ -12,4 +12,4 @@ Geoscience examples:
 - GPlates
 - MELTS
 
-Software can also be used to [[Connecting fields|connect fields]]. 
+Software can also be used to [[Software-driven collaboration|connect fields]]. 

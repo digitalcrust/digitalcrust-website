@@ -22,3 +22,8 @@ Creating an open and extensible software ecosystem for geoscience is a major end
 
 - [CU Boulder EarthLab](https://www.earthdatascience.org/)
 - [Software Carpentry](https://software-carpentry.org/)
+
+## Other efforts
+
+- [EarthMRI](https://www.usgs.gov/special-topics/earth-mri)
+- [ScienceBase](https://www.sciencebase.gov)

@@ -9,4 +9,4 @@
 - Collaborative, decentralized software infrastructure can enable new modes of
   geoscience research, such as a [[Digital twin of the crust]]
 
-[[Connecting Fields]]
+[[Software-driven collaboration]]

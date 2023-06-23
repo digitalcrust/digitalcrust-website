@@ -13,5 +13,6 @@ improve community connectivity.
 - Building effective software is also a mode of scientific communication:
   [[software-as-communication]].
 
-- [[Connecting Fields]]: Most of us think of software as _scripts_, but we need
+- [[Software infrastructure]]: Most of us think of software as _scripts_, but we need
   to start thinking about _systems_.
+- [[Software collaboration]]: Software can be a mechanism for enhancing collaboration
