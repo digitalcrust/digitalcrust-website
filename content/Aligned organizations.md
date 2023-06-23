@@ -5,7 +5,8 @@ Creating an open and extensible software ecosystem for geoscience is a major end
 - [EarthCube](https://www.earthcube.org/)
 - [rOpenSci](https://ropensci.org/)
 - [PyOpenSci](https://www.pyopensci.org/)
-- 
+
+
 # Geoscience software
 
 ## Paleosciences

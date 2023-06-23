@@ -1,3 +1,8 @@
+There is a long history of organizations that seek to coordinate digital
+infrastructure in geology. Unlike previous efforts in the space, we seek to
+foster lightweight collaboration, encouraging informal communication and shared
+maintenance of small, reusable software libraries.
+
 - Connect geoscientists who are solving problems by building software
 - Encourage [[Code-level collaboration]] outside of organizational and funding-driven [[Development silos]]
 - Support the development of [[Software libraries]] and shared code infrastructure
