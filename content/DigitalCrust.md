@@ -13,14 +13,13 @@ Our first event will be a short course at the 2023 GSA Annual Meeting.
 infrastructure for geological research. It has several
 [[DigitalCrust Goals|core goals]]:
 
-- Establish practices of [[Code-level collaboration]] among geoscientists,
-  encouraging
-  - Software-driven connections among organizations and subfields
-  - Modular, reusable [[Software libraries|software libraries]]
-- Build [[Software literacy]] among geoscientists to enable these collaborative
-  ties
+
 - Work towards a [[Digital twin of the crust]] that integrates geological
   information across space and time
+- Establish practices of [[Code-level collaboration]] among geoscientists,
+  encouraging [[Connecting fields|new ways to connect]] among organizations and subfields and modular, reusable [[Software libraries|software libraries]].
+- Build [[Software literacy]] among geoscientists to enable these collaborative
+  ties
 
 <div className="block">
 
@@ -45,7 +44,7 @@ improve community connectivity.
 
 <div className="block">
 
-## [[Activities]]
+## [[Approach]]
 
 DigitalCrust seeks to build coordination through low-overhead virtual meetings
 and training and outreach events. It seeks to direct effort to many other
