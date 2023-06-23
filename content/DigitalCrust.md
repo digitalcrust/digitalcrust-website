@@ -14,10 +14,11 @@ infrastructure for geological research. It has several
 [[DigitalCrust Goals|core goals]]:
 
 
-- Work towards a [[Digital twin of the crust]] that integrates geological
+- Work towards grassroots community development of a [[Digital twin of the crust]] that integrates geological
   information across space and time
 - Establish practices of [[Code-level collaboration]] among geoscientists towards
   - [[Software-driven collaboration|Software-mediated connections]] between organizations and subfields
+  - Bottom-up tool and infrastructure development
   - Modular, reusable [[Software libraries|software libraries]]
 - Encourage [[Software literacy|software literacy]] among geoscientists to enable these collaborative
   ties
@@ -36,7 +37,7 @@ collaborate more closely across organizational bounds
 ## [[Motivation]]
 
 Current collaborative and funding practices for geoinformatics research result
-in [[Development silos|development silos]], competing platforms, and duplication
+in [[Development silos|development silos]], low community adoption rates, competing platforms, and duplication
 of effort between organizations. DigitalCrust advocates for lightweight
 collaborative practices borrowed from the open-source software community to
 improve community connectivity.
