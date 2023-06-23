@@ -20,6 +20,6 @@ GitHub's web editor is now quite good, so making changes to the website content 
 
 ## Under the hood
 
-The application is written in [React](https://reactjs.org) and [Typescript](https://www.typescriptlang.org), built using [Vite](https://vitejs.dev) and [Vite-Plugin-SSR](vite-plugin-ssr), packaged in a [Docker](https://www.docker.com) container, 
+The application is written in [React](https://reactjs.org) and [Typescript](https://www.typescriptlang.org), built using [Vite](https://vitejs.dev) and [Vite-Plugin-SSR](https://vite-plugin-ssr.com), packaged in a [Docker](https://www.docker.com) container, 
 and deployed using [GitHub Actions](https://docs.github.com/en/actions). Website hosting and domain registration are maintained by [Macrostrat](https://macrostrat.org).
 
