@@ -5,12 +5,16 @@ Creating an open and extensible software ecosystem for geoscience is a major end
 - [EarthCube](https://www.earthcube.org/)
 - [rOpenSci](https://ropensci.org/)
 - [PyOpenSci](https://www.pyopensci.org/)
-- [LinkedEarth](https://linked.earth/)
-
+- 
 # Geoscience software
 
+## Paleosciences
+
+- [LinkedEarth](https://linked.earth/)
+- [Palaeoverse](https://palaeoverse.org/)
+
+
 - [CSDMS](https://csdms.colorado.edu/wiki/Main_Page)
-- [Paleoverse](https://paleoverse.org/)
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
 
 # Education

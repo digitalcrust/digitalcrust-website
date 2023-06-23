@@ -1,33 +1,24 @@
-- [[Activities]]: Connect geoscientists who are solving problems by building
-  software
-- [[Code-level collaboration]] melds the practices of software development with
-  geoscience research
-  - Work outside of organizational and funding-driven [[Development silos]]
-- [[Software libraries]]: Promote and coordinate the development of shared code
-  infrastructure
+- Connect geoscientists who are solving problems by building software
+- Encourage [[Code-level collaboration]] outside of organizational and funding-driven [[Development silos]]
+- Support the development of [[Software libraries]] and shared code infrastructure
+- _Open to the contributions_: Encourage contributions from many sources (e.g., enthusiast software professionals) to scientific software 
 
-  - Teach broad skills, not specific languages
-  - Provide ways to contribute for students/developers outside of science
+## Build [[Software literacy]]
 
----
+- Build a shared vision of a digital crustal research.
+- Teach geoscientists how to exist in a software-driven world
 
-- [[Activities]]: Connect geoscientists who are solving problems by building
-  software
-  - [[Code-level collaboration]] melds the practices of software development
-    with geoscience research
-  - Work outside of organizational and funding-driven [[silos]]
-- [[Software libraries]]: Promote and coordinate the development of shared code
-  infrastructure
+### Principles
 
-  - Teach broad skills, not specific languages
-  - Provide ways to contribute for students/developers outside of science
+  - _Broadly focused_: Teach broad skills and approaches, not specific languages
+  - _Learn by doing_: Provide ways to contribute that allow students to get onboard and start helping
 
-- Building effective software is a mode of scientific collaboration:
-  [[software-as-collaborative-science]].
-- Building effective software is also a mode of scientific communication:
-  [[software-as-communication]].
 
-- [[Connecting Fields]]: Most of us think of software as _scripts_, but we need
-  to start thinking about _systems_.
 
-- [[silos]]: Development silos
+## Comparisons
+
+We are similar in conception to some of our [[Aligned organizations]].
+
+- Like EarthCube but from the bottom up (not a platform)
+- Like Palaeoverse but for crustal science
+- Like Software Underground but more focused on new software. Also a bit more centered within the academic community.
