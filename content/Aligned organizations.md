@@ -20,6 +20,16 @@ Creating an open and extensible software ecosystem for geoscience is a major end
 
 - [Pangeo](https://pangeo.io): Wide collaboration to assemble a software stack for big-data geoscience.
 
+## Organizational portals
+
+- [NASA Earthdata](https://www.earthdata.nasa.gov/)
+
+# Data repositories and portals
+
+- [IEDA2](https://www.iedadata.org/): A set of repositories and data infrastructures for geological data. An umbrella
+  organization around [SESAR](https://www.geosamples.org/) and [EarthChem](https://earthchem.org/).
+- [DesignSafe CI](https://www.designsafe-ci.org/): A data repository for geological engineering and Earth hazards data.
+
 # Education
 
 - [CU Boulder EarthLab](https://www.earthdatascience.org/)
