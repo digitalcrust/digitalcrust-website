@@ -13,10 +13,12 @@ Creating an open and extensible software ecosystem for geoscience is a major end
 
 - [LinkedEarth](https://linked.earth/)
 - [Palaeoverse](https://palaeoverse.org/)
-
-
 - [CSDMS](https://csdms.colorado.edu/wiki/Main_Page)
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
+
+## Big data geoscience
+
+- [Pangeo](https://pangeo.io): Wide collaboration to assemble a software stack for big-data geoscience.
 
 # Education
 
