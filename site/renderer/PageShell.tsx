@@ -31,6 +31,12 @@ function PageShell({
               >
                 GitHub repository
               </Link>
+              <Link
+                className="navitem"
+                href="/heritage"
+              >
+                Heritage
+              </Link>
             </nav>
           </Sidebar>
           <Content>{children}</Content>
