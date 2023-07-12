@@ -4,8 +4,8 @@ permalink: index
 
 There are many ways to get involved with the DigitalCrust effort.
 
-- Come to a virtual meeting
-- Join the Slack channel (coming soon)
+- Join the `#digitalcrust` channel on the [*Software Underground Slack*](https://softwareunderground.org/slack)
 - [[Contribute to the website]]
+- Come to a virtual meeting (more details soon)
 
-If it aligns better with your goals, you can contribute to our [[Aligned organizations]]
+If it better fits your goals, you can contribute to our [[Aligned organizations]]
