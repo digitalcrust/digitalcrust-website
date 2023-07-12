@@ -13,10 +13,23 @@ Creating an open and extensible software ecosystem for geoscience is a major end
 
 - [LinkedEarth](https://linked.earth/)
 - [Palaeoverse](https://palaeoverse.org/)
-
-
 - [CSDMS](https://csdms.colorado.edu/wiki/Main_Page)
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
+
+## Big data geoscience
+
+- [Pangeo](https://pangeo.io): Wide collaboration to assemble a software stack for big-data geoscience.
+
+## Organizational portals
+
+- [NASA Earthdata](https://www.earthdata.nasa.gov/)
+
+# Data repositories and portals
+
+- [Macrostrat](https://macrostrat.org/)
+- [IEDA2](https://www.iedadata.org/): A set of repositories and data infrastructures for geological data. An umbrella
+  organization around [SESAR](https://www.geosamples.org/) and [EarthChem](https://earthchem.org/).
+- [DesignSafe CI](https://www.designsafe-ci.org/): A data repository for geological engineering and Earth hazards data.
 
 # Education
 
@@ -28,20 +41,23 @@ Creating an open and extensible software ecosystem for geoscience is a major end
 - [EarthMRI](https://www.usgs.gov/special-topics/earth-mri)
 - [ScienceBase](https://www.sciencebase.gov)
 
-# Collaborative geoscience software
+<!-- Note: the below might be better integrated into a "Vision" page of some sort -->
 
-The "digital crust" will be composed of software tools,
-in conversation with each other, supported by rich data platforms.
-A few software products that are well-established and critical to the vision:
+# Earth-system modeling software
+
+Earth science researchers already produce many software tools that handle different
+modeling tasks relevant to individual fields. Some of these are well-established,
+mature, and  collaborative enterprises.
 
 - [GPlates](https://www.gplates.org/)
 - [MELTS](https://melts.ofm-research.org/)
 
-The community is coalescing around more of these tools!
+There are many other projects that are at an earlier stage than these large-scale tools.
+We encourage the production of more such community-oriented modeling tools.
 
-Some data platforms:
+The "digital crust" arrays these focused tools in conversation with each other, supported by rich data platforms.
 
-- [Macrostrat](https://macrostrat.org/)
+## Connective tissue
 
 Software can also build connective tissue between these
 tools (and by extension, their domains of work).
