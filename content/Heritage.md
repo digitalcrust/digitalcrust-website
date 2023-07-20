@@ -5,4 +5,4 @@ Came out of EarthCube. Observation that, while EarthCube funded good projects,
 they were often siloed. Efforts to prevent this (e.g., compelling attendance to EarthCube-specific conferences; funding workshops) often were less effective than desired.
 
 We lean on a broad community infrastructure for open-science software, formed
-from many organizations [[Ecosystem]].
+from many organizations within the informatics [[Ecosystem]].
