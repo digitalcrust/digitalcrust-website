@@ -25,7 +25,7 @@ maintenance of small, reusable software libraries.
 
 ## Comparisons
 
-We are similar in conception to some of our [[Aligned organizations]].
+We are similar in concept to other efforts in the wider community [Ecosystem].
 
 - Like EarthCube but from the bottom up (not a platform)
 - Like Palaeoverse but for crustal science

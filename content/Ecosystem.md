@@ -1,4 +1,4 @@
-Creating an open and extensible software ecosystem for geoscience is a major endeavour, and there are many organizations involved in pushing it forward. Many of these efforts target the same overall problem as DigitalCrust, but are focused on different facets of the overall problem.
+Creating an open and extensible software ecosystem for geoscience is a major endeavor, and many organizations are pushing forward towards this goal. Many of these efforts target the same overall problem as DigitalCrust, but are focused on different facets of the overall problem.
 
 - [Software Underground](https://softwareunderground.org/)
 - [Earth Science Information Partners](https://www.esipfed.org/)

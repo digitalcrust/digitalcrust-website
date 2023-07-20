@@ -8,4 +8,4 @@ There are many ways to get involved with the DigitalCrust effort.
 - [[Contribute to the website]]
 - Come to a virtual meeting (more details soon)
 
-If it better fits your goals, you can contribute to our [[Aligned organizations]]
+If it better fits your goals, you can contribute to our [[Ecosystem]]
