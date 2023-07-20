@@ -22,6 +22,7 @@ infrastructure for geological research. It has several
   - Modular, reusable [[Software libraries|software libraries]]
 - Encourage [[Software literacy|software literacy]] among geoscientists to enable these collaborative
   ties
+- Foster the growth of an informatics [[Ecosystem]] of both [[Software infrastructure]] and scientists/developers within the geoscience community
 
 <div className="block">
 
@@ -49,9 +50,8 @@ improve community connectivity.
 ## [[Approach]]
 
 DigitalCrust seeks to build coordination through low-overhead virtual meetings
-and training and outreach events. It seeks to direct effort to many other
-[[Aligned organizations]] that already support the geoscience software
-ecosystem. As a loose collaborative enterprise, it remains open to new
+and training and outreach events. It seeks to direct contributions to the many other geoscience informatics and software efforts in our community
+[[Ecosystem]]. As a loose collaborative enterprise, it remains open to new
 initiatives in the future.
 
 </div>
