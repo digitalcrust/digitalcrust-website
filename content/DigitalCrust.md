@@ -22,7 +22,7 @@ infrastructure for geological research. It has several
   - Modular, reusable [[Software libraries|software libraries]]
 - Encourage [[Software literacy|software literacy]] among geoscientists to enable these collaborative
   ties
-- Foster the growth of an informatics [[Ecosystem]] of both [[Software infrastructure]] and scientists/developers within the geoscience community
+- Foster the growth of an informatics [[Ecosystem]] of both [[Software infrastructure]] and scientist-developers within the geoscience community
 
 <div className="block">
 

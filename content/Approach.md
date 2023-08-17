@@ -13,7 +13,7 @@ maintenance of small, reusable software libraries.
 - Build a shared vision of a digital crustal research.
 - Teach geoscientists how to exist in a software-driven world
 
-### Principles
+## Principles
 
   - _Broadly focused_: Teach broad skills and approaches, not specific languages
   - _Learn by doing_: Provide ways to contribute that allow students to get onboard and start helping
