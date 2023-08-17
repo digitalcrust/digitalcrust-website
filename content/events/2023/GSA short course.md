@@ -4,9 +4,7 @@ title: How to build a Digital Crust
 
 **DigitalCrust**'s inaugural workshop will be held at GSA Fall Meeting 2023!
 
-> How to Build a Digital Crust. Sat., 14 Oct., 9 a.m.–4:30 p.m. US$100;
-> scholarships available, inquire
-> at [daven@davenquinn.com](mailto:daven@davenquinn.com). Limit: 40. CEU: 0.8.
+> How to Build a Digital Crust. Sat., 14 Oct., 9 a.m.–4:30 p.m. US$60 (_general_); $20 (_students_). Limit: 40. CEU: 0.8.
 >
 > **Instructors:**
 >
