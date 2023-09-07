@@ -1,19 +1,21 @@
-# Software collaboration lesson plan
+---
+permalink: index
+---
 
 _Learning objectives:_ Understand Git and GitHub-based collaboration
 
 ## 9:15 am: Module 0 - Setup
 
-[Lesson](./0-setup.md)
+[[0-setup|Lesson]]
 
 ## 9:45 am: Module 1 - Build Code
 
-[Lesson](./1-share.md)
+[[1-share|Lesson]]
 
 ## 10:30 am: Module 2: Exchange code!
 
-[Lesson](./2-exchange.md)
+[[2-exchange|Lesson]]
 
 ## 11:30 am: Module 3: Collaborate
 
-[Lesson](./3-collaborate.md)
+[[3-collaborate|Lesson]]
