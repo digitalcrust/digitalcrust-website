@@ -2,23 +2,22 @@
 permalink: index
 ---
 
-**DigitalCrust** is a community of geologists who build software for geological
-research. We seek to make it easier to **coordinate across organizations** to
-build community-level data infrastructure towards a
-[[Digital twin of the crust]]. We have several [[DigitalCrust Goals|core goals]]
-as part of this decadal[^1] effort.
+**DigitalCrust** is a community of geologists who build software for
+collaborative geological research. We encourage **coordination across
+organizations** towards a community-level [[Digital twin of the crust]]. Among
+our [[DigitalCrust Goals|broad goals]] are to
 
-- Encorage "grassroots" practices of [[Code-level collaboration]] among
-  geoscientists.
-- Establish [[Software-driven collaboration]] between organizations and
-  subfields
-- Encourage [[Software literacy|software literacy]] among early-career
-  scientists to enable these collaborative ties
-- Foster a community [[Ecosystem|ecosystem]] of both and scientist-developers
-  within the geoscience community
-- Collaboratively build the [[Software infrastructure|software infrastructure]]
-  to integrate geological information across space and time (the
-  "[[Digital twin of the crust|Digital Crust]]")
+- Encorage "grassroots" practices of
+  [[Code-level collaboration|code-level collaboration]] among geoscientists.
+- Establish [[Software-driven collaboration|software-driven links]] between
+  organizations and subfields
+- Build [[Software literacy|software literacy]] among early-career scientists to
+  enable these collaborative ties
+- Foster a vibrant and integrated community [[Ecosystem|ecosystem]] of
+  software-oriented scientists
+- Work collaboratively towards a _digital crust_, an open and distributed
+  [[Software infrastructure|software infrastructure]] that integrates geological
+  information across space and time
 
 <div className="block">
 
