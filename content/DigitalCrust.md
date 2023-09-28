@@ -60,8 +60,3 @@ There are many ways to get involved for geologists of all levels, starting from
 simply attending our biweekly standing meeting.
 
 </div>
-
-[^1]:
-    At least decadal! The idea for a digital crust has been around for years; we
-    seek to encourage broad community participation that has been difficult to
-    achieve in the past.
