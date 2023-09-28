@@ -2,6 +2,14 @@
 title: How to build a Digital Crust
 ---
 
+<div className="aside">
+
+Unfortunately, we canceled this course due to insufficient interest. We will run an online
+version in early 2024 to allow broader participation, especially from students. Stay tuned
+here and [[Get involved|on Slack]] for more information.
+
+</div>
+
 **DigitalCrust**'s inaugural workshop will be held at GSA Fall Meeting 2023!
 
 > How to Build a Digital Crust. Sat., 14 Oct., 9 a.m.–4:30 p.m. US$60

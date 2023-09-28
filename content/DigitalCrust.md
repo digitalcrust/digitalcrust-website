@@ -2,17 +2,8 @@
 permalink: index
 ---
 
-<div className="aside">
-
-Our first event will be a short course at the 2023 GSA Annual Meeting.
-[[events/2023/GSA short course|Learn more]]!
-
-</div>
-
-**DigitalCrust** is a community organization that coordinates work on software
-infrastructure for geological research. It has several
-[[DigitalCrust Goals|core goals]]:
-
+**DigitalCrust** is a community of geologists who build software for geological research. We seek to make it easier to coordinate **across organizations** to build community-level data infrastructure.
+We are focused on several [[DigitalCrust Goals|core goals]]:
 
 - Work towards grassroots community development of a [[Digital twin of the crust]] that integrates geological
   information across space and time
