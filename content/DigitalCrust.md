@@ -2,29 +2,29 @@
 permalink: index
 ---
 
-**DigitalCrust** is a community of geologists who build software for
-collaborative geological research. We encourage **coordination across
-organizations** towards a community-level [[Digital twin of the crust]]. Among
+**DigitalCrust** is an initiative to bring together geologists who build software to characterize the
+Earth's crust. We encourage **coordination across organizations** and subfields of geology, with the
+goal of producing integrated, multi-system [[digital models of the crust|Digital twin of the crust]]. Among
 our [[DigitalCrust Goals|broad goals]] are to
 
-- Encorage "grassroots" practices of
-  [[Code-level collaboration|code-level collaboration]] among geoscientists.
-- Establish [[Software-driven collaboration|software-driven links]] between
-  organizations and subfields
-- Build [[Software literacy|software literacy]] among early-career scientists to
-  enable these collaborative ties
-- Foster a vibrant and integrated community [[Ecosystem|ecosystem]] of
-  software-oriented scientists
-- Work collaboratively towards a _digital crust_, an open and distributed
-  [[Software infrastructure|software infrastructure]] that integrates geological
-  information across space and time
+- Work to establish open, distributed, and integrated systems, datasets, and modeling approaches that
+  describe the Earth's crust across space, time, and scales of analysis
+- Build [[Software literacy|software literacy]] among early-career scientists to catalyze technical innovation
+  and effective decision making about harnessing, supporting, and utilize it
+- Encorage practices of [[Code-level collaboration|code-level collaboration]] among geologists
+  to foster modularity, reusability, and sharing of the [[Software infrastructure|software infrastructure]]
+  for digital geological research
+- Foster a community [[Ecosystem|ecosystem]] of geologists using software approaches to crustal research
+- Elevate the status of software-oriented work and collaboration alongside more established
+  technical areas
 
 <div className="block">
 
 ## [[People]]
 
-DigitalCrust was created by geologists and informatics professionals who seek to
-collaborate more closely across organizational bounds
+DigitalCrust was created by geologists who are building software infrastructure for the future of the field.
+We seek to build a culture of close technical communication and resource sharing that will accelerate, align, and
+improve all of our work.
 
 </div>
 
