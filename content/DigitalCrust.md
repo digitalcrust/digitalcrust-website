@@ -9,12 +9,12 @@ our [[DigitalCrust Goals|broad goals]] are to
 
 - Establish systems, datasets, and modeling approaches that collectively describe the Earth's crust across
   space, time, scale of analysis, and process domain
-- Build [[Software literacy|software literacy]] among early-career scientists to catalyze technical innovation
-  and effective decision making to build, support, and utilize it
 - Encorage practices of [[Code-level collaboration|code-level collaboration]] among geologists
   towards modularity, reusability, and sharing of the [[Software infrastructure|software infrastructure]]
   for digital geological research
-- Foster a community [[Ecosystem|ecosystem]] of geologists using software approaches to crustal research
+- Build [[Software literacy|software literacy]] among early-career scientists to develop contributors
+  and decision makers in digital geology
+- Develop connectivity among the [[Ecosystem|ecosystem]] of software and systems for digital crustal research
 - Elevate the status of software-oriented work and modes of collaboration alongside more established
   technical areas
 
