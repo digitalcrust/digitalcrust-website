@@ -3,8 +3,8 @@
     "dev": "yarn run server",
     "prod": "yarn run build && yarn run server:prod",
     "build": "vite build",
-    "server": "ts-node ./server/index.ts",
-    "server:prod": "cross-env NODE_ENV=production ts-node ./server/index.ts"
+    "server": "tsx ./server/index.ts",
+    "server:prod": "NODE_ENV=production tsx ./server/index.ts"
   },
   "dependencies": {
     "@loadable/component": "^5.15.3",
@@ -27,7 +27,7 @@
     "remark-frontmatter": "^4.0.1",
     "remark-wiki-link": "^1.0.4",
     "sirv": "^2.0.2",
-    "ts-node": "^10.9.1",
+    "tsx": "^4.19.2",
     "typescript": "^4.9.4",
     "vite": "^4.0.3",
     "vite-plugin-ssr": "^0.4.123"
