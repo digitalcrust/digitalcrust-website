@@ -3,8 +3,8 @@ permalink: index
 ---
 
 **DigitalCrust** is an initiative to bring together geologists who build software to characterize the
-Earth's crust. We encourage **coordination across organizations** and subfields of geology, with the
-goal of producing an integrated, multi-system [[digital model of the crust|Digital twin of the crust]]. Among
+Earth's crust. We seek to increase coordination among such geologists working in different organizations and subfields, towards
+a goal of producing an integrated, multi-system [[Digital twin of the crust|digital model of the crust]]. Among
 our [[DigitalCrust Goals|broad goals]] are to
 
 - Establish systems, datasets, and modeling approaches that collectively describe the Earth's crust across
