@@ -2,8 +2,8 @@
 permalink: index
 ---
 
-**DigitalCrust** is an initiative to bring together geologists who build software to characterize the
-Earth's crust. We seek to increase coordination among such geologists working in different organizations and subfields, towards
+The **DigitalCrust** collaboration brings together geologists who build software to characterize the
+Earth's crust. We seek to increase coordination among workers in different organizations and subfields, towards
 a goal of producing an integrated, multi-system [[Digital twin of the crust|digital model of the crust]]. Among
 our [[DigitalCrust Goals|broad goals]] are to
 
@@ -31,8 +31,8 @@ improve all of our work.
 
 ## [[Motivation]]
 
-Current collaborative and funding practices for geoinformatics research result
-in [[Development silos|development silos]], low community adoption rates,
+Current collaborative and funding practices for geoinformatics research lead
+to [[Development silos|development silos]], low community adoption rates,
 competing platforms, and duplication of effort between organizations.
 We seek to extend current emphasis on software systems and infrastructure
 with a focus on improving the collaborative model for software-based work
@@ -44,12 +44,11 @@ in geology.
 
 ## [[Approach]]
 
-DigitalCrust seeks to establish community integration through concrete, code-level collaboration.
-These lightweight collaborative practices are established in the open-source software community
-and have proved productive for distributed computational work.
-This approach will be developed at virtual meetings, workshops, and training events.
-We will also seek to coordinate contributions with other geoscience informatics and software
-efforts in our community [[Ecosystem]].
+DigitalCrust seeks to increas community integration by increasing code-level collaboration
+among organizations. This approach prioritizes lightweight, flexible collaboration around
+technical goals and has become central to the open-source software community and distributed computational work.
+This approach will be developed at virtual meetings, workshops, and training events, in coordination with
+an [[Ecosystem|ecosystem]] of related efforts.
 
 </div>
 
