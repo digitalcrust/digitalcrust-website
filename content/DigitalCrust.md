@@ -44,9 +44,10 @@ in geology.
 
 ## [[Approach]]
 
-DigitalCrust seeks to increas community integration by increasing code-level collaboration
-among organizations. This approach prioritizes lightweight, flexible collaboration around
-technical goals and has become central to the open-source software community and distributed computational work.
+DigitalCrust seeks to increase community integration by encouraging code-level collaboration
+among organizations. This approach, which prioritizes lightweight, flexible collaboration to achieve
+cross-cutting technical goals, has become central to the open-source software community but is not
+yet well developed in academic geoscience.
 This approach will be developed at virtual meetings, workshops, and training events, in coordination with
 an [[Ecosystem|ecosystem]] of related efforts.
 
