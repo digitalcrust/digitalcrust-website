@@ -12,10 +12,10 @@ our [[DigitalCrust Goals|broad goals]] are to
 - Encorage [[Code-level collaboration|code-level collaboration]] among geologists
   towards modular, adaptable, and interoperable [[Software infrastructure|software infrastructure]]
   for digital geological research
-- Build [[Software literacy|software literacy]] among early-career scientists to develop technical capacity and leadership for digital geology
-- Develop connectivity among the [[Ecosystem|ecosystem]] of software and systems for digital crustal research
-- Elevate the status of software-oriented work and modes of collaboration alongside more established
-  technical areas
+- Build [[Software literacy|software literacy]] and technical capacity among early-career scientists who might lead future digital geology research
+- Develop connectivity among an [[Ecosystem|ecosystem]] of software and systems for digital crustal research
+- Elevate the visibility of software-oriented work and collaboration alongside more established
+  geoscience domains
 
 <div className="block">
 
